@@ -1,4 +1,4 @@
-pieniadzeNaStart = 500
+pieniadzeNaStart = 50
 
 VAT = 23
 
